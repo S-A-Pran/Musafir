@@ -1,4 +1,4 @@
 # Musafir
 Musafir is an android app where user can see the tour places with elaboare details. Both Bangladesh and abroads tour places have description. Available tour packages with details also present. Those package can be avail by booking. For more help some youtube vlog added inside the app. <br/>
-# Screenshot
+# Screenshot of Pages
 <img src="Musafir vdos and scrnsht/start page.png" height="200"> <img src="Musafir vdos and scrnsht/Homepage.png" height="200"> <img src="Musafir vdos and scrnsht/tour place bd.png" height="200"> <img src="Musafir vdos and scrnsht/tourplaceabroad.png" height="200"> <img src="Musafir vdos and scrnsht/packages.png" height="200"> <img src="Musafir vdos and scrnsht/package details.png" height="200"> <img src="Musafir vdos and scrnsht/vlogs.png" height="200"> <img src="Musafir vdos and scrnsht/feedback.png" height="200">
