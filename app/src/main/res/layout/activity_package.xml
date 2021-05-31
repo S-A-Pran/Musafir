@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bdvictory"
+    android:layout_height="match_parent"
+    tools:context=".Package">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="0sp"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="0sp"
+            android:gravity="center"
+            >
+            <Button
+                android:layout_marginTop="20sp"
+                android:id="@+id/pack1"
+                android:layout_width="350dp"
+                android:layout_height="250dp"
+                android:text="@string/pack1"
+                android:textColor="#23FCC0"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:background="@drawable/manali"
+
+                />
+            <Button
+                android:layout_marginTop="20sp"
+                android:id="@+id/pack2"
+                android:layout_width="350dp"
+                android:layout_height="250dp"
+                android:text="মাত্র ৳৪,১৯৯ টাকায় সাজেক ও খাগড়াছড়ি ভ্রমণ"
+                android:textColor="#03FCFC"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:background="@drawable/sajek"
+
+                />
+            <Button
+                android:layout_marginTop="20sp"
+                android:id="@+id/pack3"
+                android:layout_width="350dp"
+                android:layout_height="250dp"
+                android:text="সেইন্ট মার্টিন এবং ছেঁড়া দ্বীপ ভ্রমণ"
+                android:textColor="#FFC400"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:background="@drawable/stmartin"
+
+                />
+            <Button
+                android:layout_marginTop="20sp"
+                android:id="@+id/pack4"
+                android:layout_width="350dp"
+                android:layout_height="250dp"
+                android:text="সৌন্দর্য্যের লীলাভূমি সিলেট - রিল্যাক্স ট্যুর"
+                android:textColor="#FFC400"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:background="@drawable/pack4"
+
+                />
+
+            <Button
+                android:layout_marginTop="20sp"
+                android:id="@+id/pack5"
+                android:layout_width="350dp"
+                android:layout_height="250dp"
+                android:text="বর্ষায় টাঙ্গুয়ার হাওরের রূপ দর্শন"
+                android:textColor="#FF3D00"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:background="@drawable/tang"
+
+                />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+
+
+
+
+
+</LinearLayout>
